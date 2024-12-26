@@ -1,3 +1,7 @@
 .main{
+<<<<<<< HEAD
     min-height: calc(100vh - 82px - 42px);
+=======
+    min-height: calc(100vh - 83px - 42px);
+>>>>>>> f642b9a (init)
 }

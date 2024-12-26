@@ -1,26 +1,14 @@
 {
-  "name": "react_movies",
+  "name": "use_states",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "dependencies": {
     "cra-template": "1.2.0",
-=======
-  "homepage": "https://maksimklim.github.io/React_Movies/",
-  "dependencies": {
-    "cra-template": "1.2.0",
-    "gh-pages": "^6.2.0",
->>>>>>> f642b9a (init)
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "react-scripts": "5.0.1"
   },
   "scripts": {
-<<<<<<< HEAD
-=======
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
->>>>>>> f642b9a (init)
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

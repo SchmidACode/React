@@ -11,16 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-<<<<<<< HEAD
-.wrap{
-  max-width: 1200px;
-  margin: 0 auto;
-}
-=======
-.wrap
-{
-  max-width: 1200px;
-  margin: 0 auto;
-}
->>>>>>> f642b9a (init)

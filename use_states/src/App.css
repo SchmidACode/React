@@ -5,7 +5,6 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
-<<<<<<< HEAD
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -13,16 +12,6 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-=======
-  animation: App-logo-spin infinite 20s linear;
-}
-
-/* @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-} */
->>>>>>> f642b9a (init)
 
 .App-header {
   background-color: #282c34;
